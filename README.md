@@ -1,0 +1,1 @@
+# chinease-korean-and-japanease-all-character-dataset-generator
