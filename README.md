@@ -97,3 +97,5 @@ The pipeline was executed using a specialized, ultra-high-speed architecture:
 ## 📜 License
 
 This asset pipeline and the generated dataset outputs are distributed under the open **CC0-1.0 (Creative Commons Public Domain Dedication)** license. You are free to copy, modify, distribute, and perform commercial machine learning model training on this work without asking for permission or attribution.
+
+## kaggle dataset link: https://www.kaggle.com/datasets/sayantanroy10121999/cjk-all-characters-dataset/
